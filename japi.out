@@ -1,0 +1,84 @@
+C:\Users\jarret\AppData\Local\Programs\Python\Python38-32\python.exe C:/Users/jarret/PycharmProjects/ProjectDeliverable5/japi.py
+Enter stock symbol to look up: AMD
+{
+    "Global Quote": {
+        "01. symbol": "AMD",
+        "02. open": "53.2800",
+        "03. high": "54.1700",
+        "04. low": "52.8600",
+        "05. price": "52.9300",
+        "06. volume": "31767900",
+        "07. latest trading day": "2020-07-07",
+        "08. previous close": "53.4000",
+        "09. change": "-0.4700",
+        "10. change percent": "-0.8801%"
+    }
+}
+The current price of AMD is: 52.9300
+Enter stock symbol to look up: AAPL
+{
+    "Global Quote": {
+        "01. symbol": "AAPL",
+        "02. open": "375.4100",
+        "03. high": "378.6200",
+        "04. low": "372.2300",
+        "05. price": "372.6900",
+        "06. volume": "27058500",
+        "07. latest trading day": "2020-07-07",
+        "08. previous close": "373.8500",
+        "09. change": "-1.1600",
+        "10. change percent": "-0.3103%"
+    }
+}
+The current price of AAPL is: 372.6900
+Enter stock symbol to look up: F
+{
+    "Global Quote": {
+        "01. symbol": "F",
+        "02. open": "6.1400",
+        "03. high": "6.2000",
+        "04. low": "6.0900",
+        "05. price": "6.1300",
+        "06. volume": "53076200",
+        "07. latest trading day": "2020-07-07",
+        "08. previous close": "6.1900",
+        "09. change": "-0.0600",
+        "10. change percent": "-0.9693%"
+    }
+}
+The current price of F is: 6.1300
+Enter stock symbol to look up: AMZN
+{
+    "Global Quote": {
+        "01. symbol": "AMZN",
+        "02. open": "3058.5500",
+        "03. high": "3069.5500",
+        "04. low": "2990.0000",
+        "05. price": "3000.1200",
+        "06. volume": "5142400",
+        "07. latest trading day": "2020-07-07",
+        "08. previous close": "3057.0400",
+        "09. change": "-56.9200",
+        "10. change percent": "-1.8619%"
+    }
+}
+The current price of AMZN is: 3000.1200
+Enter stock symbol to look up: GOOGL
+{
+    "Global Quote": {
+        "01. symbol": "GOOGL",
+        "02. open": "1496.1300",
+        "03. high": "1521.3200",
+        "04. low": "1489.7000",
+        "05. price": "1489.9200",
+        "06. volume": "2104000",
+        "07. latest trading day": "2020-07-07",
+        "08. previous close": "1499.6500",
+        "09. change": "-9.7300",
+        "10. change percent": "-0.6488%"
+    }
+}
+The current price of GOOGL is: 1489.9200
+Enter stock symbol to look up: quit
+
+Process finished with exit code 0
